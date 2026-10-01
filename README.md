@@ -1,0 +1,1 @@
+# smart-hakathon-management
